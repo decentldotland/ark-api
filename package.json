@@ -1,0 +1,15 @@
+{
+  "name": "ark-api",
+  "version": "0.1.0",
+  "description": "Collection of Ark API utility methods and interfaces for common use cases",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "arweave": "^1.11.8"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "author": "decent.land",
+  "license": "MIT"
+}
